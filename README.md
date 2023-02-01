@@ -11,4 +11,4 @@ This is the first readme file.
 https://google.com/
 
 ## Images
-![Picture](https://images.onwardstate.com/uploads/2014/02/NittanyLionLogo.jpg)
+![Picture](bTF2V7Tn_400x400.jpg)
