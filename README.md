@@ -8,7 +8,7 @@ This is the first readme file.
 * html forms
 
 ## Links
-https://google.com/
+[https://google.com/](https://github.com/SebastianM1127/index_html_forms_lab)
 
 ## Images
 ![Picture](bTF2V7Tn_400x400.jpg)
